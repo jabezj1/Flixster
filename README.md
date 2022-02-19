@@ -24,7 +24,10 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Ran into multiple errors when submitting.
+ -FIXED: Put into an new file.
+App kept crashing when onClicked listener used for DetailActivity.kt.
+  -FIXED: Typo in AndroidManifest.xml removed.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
